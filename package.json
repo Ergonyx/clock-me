@@ -1,0 +1,23 @@
+{
+  "name": "clock-me",
+  "version": "1.0.0",
+  "description": "Scheduling software",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ergonyx/clock-me.git"
+  },
+  "author": "Alex Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ergonyx/clock-me/issues"
+  },
+  "homepage": "https://github.com/Ergonyx/clock-me#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
